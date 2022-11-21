@@ -8,7 +8,7 @@ data = {}
 
 @app.get("/")
 def read_root():
-    return data
+    return "hello world"
 
 @app.post("/")
 async def test(request: Request):
