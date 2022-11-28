@@ -1,0 +1,16 @@
+[
+    {
+        "nama toko": "bagas store",
+        "nama barang": "bagas",
+        "jumlah terjual": 1,
+        "harga": 5000,
+        "tanggal penjualan": "28-11-2022"
+    },
+    {
+        "nama toko": "dias store",
+        "nama barang": "dias",
+        "jumlah terjual": 5,
+        "harga": 10000,
+        "tanggal penjualan": "28-11-2022"
+    }
+]
