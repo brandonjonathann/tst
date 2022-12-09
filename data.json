@@ -1,16 +1,56 @@
 [
     {
-        "nama toko": "bagas store",
-        "nama barang": "bagas",
-        "jumlah terjual": 1,
-        "harga": 5000,
-        "tanggal penjualan": "28-11-2022"
+        "sales_id": 1,
+        "item_id": 6,
+        "name": "Nasi Goreng Kornet",
+        "category": "nasi goreng",
+        "amount": 1,
+        "price": 24000,
+        "date": "28-11-2022"
     },
     {
-        "nama toko": "dias store",
-        "nama barang": "dias",
-        "jumlah terjual": 5,
-        "harga": 10000,
-        "tanggal penjualan": "28-11-2022"
+        "sales_id": 2,
+        "item_id": 6,
+        "name": "Nasi Goreng Kornet",
+        "category": "nasi goreng",
+        "amount": 5,
+        "price": 24000,
+        "date": "28-11-2022"
+    },
+    {
+        "sales_id": 3,
+        "item_id": 6,
+        "name": "Nasi Goreng Kornet",
+        "category": "nasi goreng",
+        "amount": 3,
+        "price": 24000,
+        "date": "09-11-2022"
+    },
+    {
+        "sales_id": 4,
+        "item_id": 6,
+        "name": "Nasi Goreng Kornet",
+        "category": "nasi goreng",
+        "amount": 2,
+        "price": 24000,
+        "date": "08-11-2022"
+    },
+    {
+        "sales_id": 5,
+        "item_id": 18,
+        "name": "Lemon Tea",
+        "category": "Minuman",
+        "amount": 1,
+        "price": 10000,
+        "date": "28-11-2022"
+    },
+    {
+        "sales_id": 6,
+        "item_id": 5,
+        "name": "Nasi Goreng Spesial",
+        "category": "nasi goreng",
+        "amount": 1,
+        "price": 28000,
+        "date": "29-11-2022"
     }
 ]

@@ -6,5 +6,13 @@
     {
         "username": "jonathan",
         "password": "c49b876c05fd376922883ceaf5b7e7871ae4ae9f24e79958f3fc70efe114627d"
+    },
+    {
+        "username": "admin",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    },
+    {
+        "username": "admin2",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
     }
 ]
